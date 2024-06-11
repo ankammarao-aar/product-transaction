@@ -1,0 +1,86 @@
+.list-item {
+    display: flex;
+}
+
+.id {
+    font-family: 'Roboto';
+    font-size: 14px;
+    width: 56px;
+    border: 1px solid black;
+    border-right: none;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+}
+
+.title {
+    font-family: 'Roboto';
+    font-size: 14px;
+    width: 336px;
+    border: 1px solid black;
+    border-right: none;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    flex-wrap: wrap;
+}
+
+.desc {
+    font-family: 'Roboto';
+    font-size: 14px;
+    width: 700px;
+    border: 1px solid black;
+    border-right: none;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.price {
+    font-family: 'Roboto';
+    font-size: 14px;
+    width: 100px;
+    border: 1px solid black;
+    border-right: none;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    flex-wrap: wrap;
+}
+
+.cate {
+    font-family: 'Roboto';
+    font-size: 14px;
+    width: 100px;
+    border: 1px solid black;
+    border-right: none;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.sold {
+    font-family: 'Roboto';
+    font-size: 14px;
+    width: 100px;
+    border: 1px solid black;
+    border-right: none;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.image {
+    width: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}
+
